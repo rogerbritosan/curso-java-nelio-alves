@@ -33,7 +33,7 @@ public class SaidasDeDados {
 		System.out.printf("Valor de pi com 20 casas decimais: %.20f%n", pi);
 		
 		// %.2f -> "2" significa 2 casas decimais
-		// %n -> pula linha
+		// %n -> pula linha ou deveria rs
 		
 	}
 	
