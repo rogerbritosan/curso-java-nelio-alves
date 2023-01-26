@@ -36,6 +36,14 @@ public class FuncoesMatematicas {
 		System.out.println("Valor absoluto de " + y + " = " + A);
 		System.out.println("Valor absoluto de " + z + " = " + B);
 		
+		// fórmula de baskara
+		// função do 2º grau
+//		double delta, a, b, c, x1, x2;
+//		delta = Math.pow(b, 2.0) - 4*a*c;
+//		
+//		x1 = (-b + Math.sqrt(delta)) / (2.0 * a);
+//		x2 = (-b - Math.sqrt(delta)) / (2.0 * a);
+		
 	}
 
 }
