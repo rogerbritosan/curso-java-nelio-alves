@@ -20,6 +20,8 @@ public class EstruturaCondicional3 {
 			System.out.println("Boa noite!");
 		}
 		
+		sc.close();
+		
 	}
 
 }

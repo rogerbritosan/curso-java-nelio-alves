@@ -23,6 +23,8 @@ public class EstruturaCondicional2 {
 			}
 		}
 		
+		sc.close();
+		
 	}
 
 }
